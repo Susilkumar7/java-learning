@@ -1,3 +1,5 @@
+package com.basics;
+
 public class DecimalComparator {
     public static boolean areEqualByThreeDecimalPlaces(double a, double b) {
         a = (int) (a * 1000);

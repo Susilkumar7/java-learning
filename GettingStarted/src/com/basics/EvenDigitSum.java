@@ -1,3 +1,5 @@
+package com.basics;
+
 public class EvenDigitSum {
     public static int getEvenDigitSum(int number) {
         if (number < 0) return -1;

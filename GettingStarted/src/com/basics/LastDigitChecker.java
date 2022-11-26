@@ -1,3 +1,5 @@
+package com.basics;
+
 public class LastDigitChecker {
     public static boolean isValid(int num) {
         return (num >= 10) && (num <= 1000);

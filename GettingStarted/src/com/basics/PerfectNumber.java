@@ -1,3 +1,5 @@
+package com.basics;
+
 public class PerfectNumber {
     public static boolean isPerfectNumber(int number) {
         int divisorSum = 1;

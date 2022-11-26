@@ -1,3 +1,5 @@
+package com.basics;
+
 public class FirstLastDigitSum {
 
     public static int sumFirstAndLastDigit(int number){
